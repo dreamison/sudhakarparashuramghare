@@ -74,7 +74,7 @@ const ElectionInterface = () => {
   return (
     <div className="my-2">
       {/* Header Section */}
-      <h5 className="text-center" style={{ padding: '0px', fontSize: '12px', marginBottom: '0px' }}>189 कर्जत विधानसभा मतदारसंघ</h5>
+      <h5 className="text-center" style={{ padding: '0px', fontSize: '12px', marginBottom: '0px' }}>१८९ कर्जत-खालापूर विधानसभा</h5>
       <p className="text-center">
         <button
           className="btn btn-primary btn-sm mx-2 text-white rounded"
