@@ -32,7 +32,7 @@ const ElectionInterface = () => {
     setClickCounts(updatedCounts);
     setSelectedCandidate(candidate);
     playAudioTone(index);
-    if (index == 1) {
+    if (index == 6) {
       setTimeout(() => {
         const audio = new Audio('WhatsApp Audio 2024-11-17 at 12.03.04 AM (online-audio-converter.com).mp3');
         audio.play();
@@ -144,8 +144,8 @@ const ElectionInterface = () => {
                           alt="Candidate"
                           className="img"
                           style={{
-                            width: '40px', // Adjust size for better visualization
-                            height: '35px', // Ensure the aspect ratio is kept for good visuals
+                            width: '50px', // Adjust size for better visualization
+                            height: '45px', // Ensure the aspect ratio is kept for good visuals
                             objectFit: 'cover', // Optional, ensures the image covers the space
                           }}
                         />
