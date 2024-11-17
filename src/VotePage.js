@@ -67,9 +67,9 @@ const ElectionInterface = () => {
       nameMarathi: "सुधाकर परशुराम घारे", // Marathi name
       party: "Bharatiya Janata Party",
       symbol: "symbol.png",
-      photo: "WhatsApp Image 2024-11-16 at 5.44.54 PM.jpeg",
+      photo: "photo (1).png",
     },
-    // Add more candidates here
+    
   ];
   return (
     <div className="my-2">
@@ -186,7 +186,7 @@ const ElectionInterface = () => {
                     className="btn btn-primary btn-sm " // Adds bottom margin using Bootstrap class
                     onClick={() => handleButtonClick(index, candidates[0])}
                   >
-                    {index === 1 ? 'बटण दाबा' : ''}
+                    {index === 6 ? 'बटण दाबा' : ''}
                   </button>
                 </td>
 
