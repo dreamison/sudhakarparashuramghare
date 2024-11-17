@@ -166,7 +166,7 @@ const ElectionInterface = () => {
                 </td>
                 <td style={{ padding: '0px', fontSize: '9px' }}>
                   <img
-                    src={index == 1 ? url : 'https://digibitsearch.com/ganeshnaik/demo-voting/assets/bulb.png'}
+                    src={index == 6 ? url : 'https://digibitsearch.com/ganeshnaik/demo-voting/assets/bulb.png'}
                     alt="Symbol"
                     className="img-fluid"
                     style={{ width: "20px" }}
