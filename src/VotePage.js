@@ -65,7 +65,7 @@ const ElectionInterface = () => {
     {
       name: "Sudhakar Parashuram Ghare", // English name
       nameMarathi: "सुधाकर परशुराम घारे", // Marathi name
-      party: "Bharatiya Janata Party",
+      party: "अपक्ष उमेदवार",
       symbol: "symbol.png",
       photo: "photo (1).png",
     },
@@ -74,7 +74,7 @@ const ElectionInterface = () => {
   return (
     <div className="my-2">
       {/* Header Section */}
-      <h5 className="text-center" style={{ padding: '0px', fontSize: '12px', marginBottom: '0px' }}>151 बेलापूर विधानसभा मतदारसंघ</h5>
+      <h5 className="text-center" style={{ padding: '0px', fontSize: '12px', marginBottom: '0px' }}>189 कर्जत विधानसभा मतदारसंघ</h5>
       <p className="text-center">
         <button
           className="btn btn-primary btn-sm mx-2 text-white rounded"
@@ -245,7 +245,7 @@ const ElectionInterface = () => {
                     <div style={{ padding: '0px', marginBottom: '0px', fontSize: '13px' }}>
                       <p style={{ padding: '0px', marginBottom: '0px', fontWeight: "600" }}>{selectedCandidate.nameMarathi}</p>
                       <p style={{ padding: '0px', marginBottom: '0px', fontWeight: "600" }}>{selectedCandidate.name}</p>
-                      <p style={{ padding: '0px', marginBottom: '0px', letterSpacing: '-0.5px' }}>भारतीय जनता पार्टी</p>
+                      <p style={{ padding: '0px', marginBottom: '0px', letterSpacing: '-0.5px' }}>अपक्ष उमेदवार</p>
                       <p style={{ padding: '0px', marginBottom: '0px', letterSpacing: '-0.5px' }}>{selectedCandidate.party}</p>
                     </div>
                     <img
@@ -253,8 +253,8 @@ const ElectionInterface = () => {
                       alt="Election Symbol"
                       className="img-fluid mb-2"
                       style={{
-                        width: "50px",
-                        height: '50px'
+                        width: "60px",
+                        height: '60px'
                       }}
                     />
                   </div>
