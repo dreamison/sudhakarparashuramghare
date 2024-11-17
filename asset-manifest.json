@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sudhakarparashuramghare/static/css/main.8584ac3e.css",
-    "main.js": "/sudhakarparashuramghare/static/js/main.f31a52b0.js",
+    "main.js": "/sudhakarparashuramghare/static/js/main.f0ffa7d1.js",
     "static/js/453.870222fa.chunk.js": "/sudhakarparashuramghare/static/js/453.870222fa.chunk.js",
     "index.html": "/sudhakarparashuramghare/index.html",
     "main.8584ac3e.css.map": "/sudhakarparashuramghare/static/css/main.8584ac3e.css.map",
-    "main.f31a52b0.js.map": "/sudhakarparashuramghare/static/js/main.f31a52b0.js.map",
+    "main.f0ffa7d1.js.map": "/sudhakarparashuramghare/static/js/main.f0ffa7d1.js.map",
     "453.870222fa.chunk.js.map": "/sudhakarparashuramghare/static/js/453.870222fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8584ac3e.css",
-    "static/js/main.f31a52b0.js"
+    "static/js/main.f0ffa7d1.js"
   ]
 }
