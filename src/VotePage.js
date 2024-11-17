@@ -9,7 +9,7 @@ const ElectionInterface = () => {
   const [selectedCandidate, setSelectedCandidate] = useState(null);
   const [url, setUrl] = useState('https://digibitsearch.com/ganeshnaik/demo-voting/assets/bulb.png');
   const playAudioTone = (index) => {
-    if (index == 1) {
+    if (index == 6) {
       // Play the candidate-specific audio
       const audio = new Audio('WhatsApp Audio 2024-11-17 at 12.01.49 AM (online-audio-converter.com).mp3');
       audio.play();
