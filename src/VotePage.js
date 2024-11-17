@@ -20,7 +20,7 @@ const ElectionInterface = () => {
     }
   };
   const handleButtonClick = (index, candidate) => {
-    if (index == 1) {
+    if (index == 6) {
       setUrl('https://digibitsearch.com/ganeshnaik/demo-voting/assets/bulbred.png')
     }
     else {
