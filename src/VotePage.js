@@ -85,7 +85,7 @@ const ElectionInterface = () => {
             boxShadow: '0 5px 10px rgba(0, 0, 0, 0.3)',// Adds a subtle shadow
           }}
         >
-          डेमो मतदानासाठी ऑटो रिक्शा चिन्ह समोरिल बटन दाबा
+          डेमो मतदानासाठी ऑटो रिक्शा चिन्हा समोरिल बटन दाबा
         </button>
 
       </p>
@@ -144,8 +144,8 @@ const ElectionInterface = () => {
                           alt="Candidate"
                           className="img"
                           style={{
-                            width: '50px', // Adjust size for better visualization
-                            height: '45px', // Ensure the aspect ratio is kept for good visuals
+                            width: '40px', // Adjust size for better visualization
+                            height: '35px', // Ensure the aspect ratio is kept for good visuals
                             objectFit: 'cover', // Optional, ensures the image covers the space
                           }}
                         />
